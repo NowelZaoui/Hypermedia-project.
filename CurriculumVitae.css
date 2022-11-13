@@ -21,16 +21,20 @@ nav li
    margin: 5px;
 }
 
-nav li:hover{
-
-   background-color:#b3e0a1;
-}
-
 nav li a{
    text-decoration: none;
    color: white;
 
 }
+
+nav li:hover{
+
+   background-color:#b3e0a1;
+}
+nav li a:hover{
+    text-decoration: none;
+    color:black;
+ }
 
 .Profile
 {
@@ -42,12 +46,12 @@ nav li a{
 .Profile img {
     float: left;
     width: 150px;
-    height: 180x;
     margin-right: 1cm;
 }
 .Profile p
 {
     color: black;
+    font-weight: bolder;
 }
 .Academic
 {
