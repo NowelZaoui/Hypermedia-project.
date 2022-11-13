@@ -1,0 +1,87 @@
+
+body {
+	font-family: "Archivo Black",Arial, Helvetica;
+	font-size: 13px;
+	color: white;
+	background: #4A54AC;
+	margin: 10px;
+	padding: 25px;
+	width: auto;
+    text-transform: uppercase;
+}
+h1{
+    text-align: center;
+}
+nav li
+{
+   display: inline;
+   list-style-type: none;
+   padding: 10px;
+}
+
+nav li:hover{
+
+   background-color:#b3e0a1;
+}
+
+nav li a{
+   text-decoration: none;
+   color: white;
+
+}
+
+.Profile
+{
+    background-color: #A8B5A3;
+    padding: 10px;
+    margin:5px
+}
+/* Resize images */
+.Profile img {
+    float: left;
+    width: 150px;
+    height: 180x;
+    margin-right: 1cm;
+}
+.Profile p
+{
+    color: black;
+}
+.Academic
+{
+    background-color: #94B2FF;
+    padding: 10px;
+    margin:5px
+}
+
+.Languages
+{
+    background-color: #5670B6;
+    padding: 10px;
+    margin:5px
+}
+.Languages li
+{
+   display: inline;
+   list-style-type: none;
+   padding: 2px;
+}
+
+.Languages li li
+{
+   display:list-item;
+   list-style-type: none;
+   padding: 2px;
+}
+
+.Experience
+{
+    background-color: #87A989;
+    padding: 10px;
+    margin:5px
+}
+
+.Experience li
+{
+    padding: 5px;
+}
