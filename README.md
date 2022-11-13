@@ -18,5 +18,9 @@ Here are all the titles that you have obtained or are studying to obtain. Each o
 Here are the languages with which one has capacity.
 Each language is presented with three sections, indicating behind them how much is the level with which it is mastered: Understanding (as is the level in case they are directed in this language, either speaking or by text), Writing (as is the level when it comes to being able to write in that language), and Speaker (how is the level of being able to speak in that language).
 ### Experiencie
-Aquí se presenta una lista de los trabajos previos la persona ha trabajado.
+Here is a list of previous jobs the person has worked.
 ## Visual design
+For the design, I chose to use an alternation of blue and green colors, in soft tones so that the design does not look too busy.
+One of the things I wanted to put so that a browser appeared to be able to quickly go to one of the four sections in particular. I made that in case of passing the mouse over, there would be a change of color to highlight more the one that was wanted to be selected.
+I also made each section have a different color, to be able to see what part of the page is dedicated to this section.
+Since the background colors could make it difficult to read the text, I made the text white, except in the Profile section, as I wanted to emphasize that this section, where there is data about the person, is different from the rest since it is the information with which they can later contact that person if they wish.
