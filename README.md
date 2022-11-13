@@ -33,3 +33,10 @@ One of the things I wanted to put so that a browser appeared to be able to quick
 I also made each section have a different color, to be able to see what part of the page is dedicated to this section.
 
 Since the background colors could make it difficult to read the text, I made the text white, except in the Profile section, as I wanted to emphasize that this section, where there is data about the person, is different from the rest since it is the information with which they can later contact that person if they wish.
+
+## EXTRA
+Since anything can be added in the Experience section, because the important thing for this practice was to do the HTML and CSS, what I have added are "works" that refer to video games, movies, books... to popular culture. One way to know what they refer to is that in the HTML you can see an identifier and there is the name of the source of the reference.
+
+The reason for this, beyond because I like the idea of putting references, is because I wanted to make a list long enough so that the browser, when clicking on the section you want to view, scrolls the screen enough to put directly as desired, since if there is not much space, it may seem that it is not working well.
+
+Another thing I wanted to do was that if you hover the mouse over one of the experiences, a text would appear next to the mouse indicating what it was referring to, but since I couldn't make a Javascript function that would do it in a generic way, I discarded the idea. The identifiers are a vestige of that idea, and at least they serve to be able to discover the source material.
