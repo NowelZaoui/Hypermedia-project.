@@ -15,5 +15,8 @@ Here is all the information that is dedicated to the identification of the perso
 ### Academic
 Here are all the titles that you have obtained or are studying to obtain. Each one of the titles is identified with the name of the title, the study center where it was studied and the year it was obtained (marking in process if you are still studying to obtain it).
 ### Languages
-
-## Visual design)
+Here are the languages with which one has capacity.
+Each language is presented with three sections, indicating behind them how much is the level with which it is mastered: Understanding (as is the level in case they are directed in this language, either speaking or by text), Writing (as is the level when it comes to being able to write in that language), and Speaker (how is the level of being able to speak in that language).
+### Experiencie
+Aquí se presenta una lista de los trabajos previos la persona ha trabajado.
+## Visual design
