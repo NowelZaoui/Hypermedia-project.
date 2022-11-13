@@ -16,7 +16,9 @@ nav li
 {
    display: inline;
    list-style-type: none;
+   background-color: #030087;
    padding: 10px;
+   margin: 5px;
 }
 
 nav li:hover{
@@ -84,4 +86,9 @@ nav li a{
 .Experience li
 {
     padding: 5px;
+}
+
+footer
+{
+    text-align: center;
 }
